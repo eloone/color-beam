@@ -1,0 +1,106 @@
+body {
+    background: #FAF4DC;
+    font-family: 'Indie Flower', cursive;
+    font-size: 32px;
+}
+
+.row{
+     border-bottom: 5px solid white;
+}
+
+.row p{
+    height: 100px;
+    margin: 0;
+}
+
+.white{
+    background: white;
+}
+
+.cream{
+    background: #FCFAE3;
+}
+
+.orange{
+    background: #FF794D;
+}
+
+.rust{
+    background: #C93C00;
+}
+
+.normal-orange{
+    background: #FF9123;
+}
+
+.orange-pink{
+    background: #F7365A;
+}
+
+.orange-pink-10{
+    background: #FF5858;
+}
+
+.green{
+    background: #00AD8E;
+}
+
+.grass-green{
+    background: #68A800;
+}
+
+.purple{
+    background: #670A91;
+}
+
+.ocre{
+    background: #FFB300;
+}
+
+.green-yellow{
+    background: #D0D707;
+}
+
+.green-yellow10{
+    background: #F3FA18;
+}
+
+.pale-yellow{
+    background: #FFF8C7;
+}
+
+.normal-yellow{
+    background: #FCD700;
+}
+
+.anthracite{
+    background: #403F3D;
+}
+
+.grey{
+    background: #B5B5B5;
+}
+
+.dark-blue{
+    background: #001296;
+}
+
+.sweden-blue{
+   background: #00DBFC;
+}
+
+.petrole{
+    background: #004D57;
+}
+
+.bright-orange{
+    background: #FC5D08;
+}
+
+.bright-pink{
+    background: #FF1F48;
+}
+
+.menthe{
+    background: #00DBBE;
+}
